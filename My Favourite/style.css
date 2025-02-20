@@ -1,52 +1,53 @@
 html {
-background: url(img/many-rectangular-dark-rods-decorative-abstract-background_183270-1118.avif)
+  background: url(img/many-rectangular-dark-rods-decorative-abstract-background_183270-1118.avif);
 }
 
 body {
-padding-top: 1px;
-width: 600px;
-background-color: rgba(255, 255, 255, 0.79);
-margin: 0px auto;
-padding-left: 100px;
-padding-right: 100px;
-text-align: center;
+  padding-top: 1px;
+  width: 600px;
+  /* background-color: rgba(255, 255, 255, 0.79); */
+  background: url(img/modern-white-background-free-vector.jpg);
+  margin: 0px auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
 }
 
 #class {
-padding-left: 280px;
-text-align: left;
+  padding-left: 280px;
+  text-align: left;
 }
 
 #clas {
-    padding-left: 252.5px;
-    text-align: left;
+  padding-left: 252.5px;
+  text-align: left;
 }
 
 #cla {
-    padding-left: 270px;
-    text-align: left;
+  padding-left: 270px;
+  text-align: left;
 }
 
 h1 {
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-p{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-b{
-font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+b {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
-h2{
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-a{
-text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-a:hover{
-color: crimson;
+a:hover {
+  color: crimson;
 }
